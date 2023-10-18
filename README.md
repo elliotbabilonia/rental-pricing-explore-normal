@@ -15,14 +15,8 @@ The purpose of this project is to provide the "real estate company in Taipei Cit
 * etc.
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
 
 ## Project Description
 As a part of NotGPT (a super real company totally not fake for the sake of completing this project), the data analytics consulting firm, I have been working on a project for a real estate company in Taipei City, Taiwan (totally real like I said ;)). The project involves analyzing and predicting rental property prices for various properties owned by the client. Here is an overview of the project, its data sources, questions, and hypothesis, as well as the data analysis, visualization, and modeling work we are using to address the problem:
