@@ -27,16 +27,21 @@ The purpose of this project is to provide the "real estate company in Taipei Cit
 ## Project Description
 As a part of NotGPT (a super real company totally not fake for the sake of completing this project), the data analytics consulting firm, I have been working on a project for a real estate company in Taipei City, Taiwan (totally real like I said ;)). The project involves analyzing and predicting rental property prices for various properties owned by the client. Here is an overview of the project, its data sources, questions, and hypothesis, as well as the data analysis, visualization, and modeling work we are using to address the problem:
 
-Data Visualization
+Data Visualization:
+
 Generate visualizations such as scatter plots, histograms, and box plots to understand the distribution and relationships between variables.
     Use summary statistics to get a sense of the dataset's central tendencies and spreads.
     Create heatmaps and geographical plots to explore spatial trends in rental prices.
     Investigate correlations between features and rental prices using correlation matrices.
-Data Cleaning
+    
+Data Cleaning:
+
     Address the issue of a column that was improperly interpreted as an "object" (string) and convert it to the correct data type.
     Identify and address oddities in the dataset, such as negative convenience store counts, which may be data errors.
     Remove or impute missing data points to ensure data quality.
-Data Prediction (Modeling)
+    
+Data Prediction (Modeling):
+
 Build a linear regression model to predict the unit price of rental properties.
 Split the dataset into training and testing sets for model validation.
 
