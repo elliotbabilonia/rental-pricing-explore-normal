@@ -45,4 +45,6 @@ Data Prediction (Modeling):
 Build a linear regression model to predict the unit price of rental properties.
 Split the dataset into training and testing sets for model validation.
 
+Conclusion:
+
 This project presents several challenges, including data quality issues, feature engineering, model selection and tuning, the risk of overfitting, effective client communication, tight time constraints, and ethical considerations. To overcome these challenges, I employ strategies such as data cleaning and feature selection, model comparison and hyperparameter tuning, regularization techniques, clear client communication, project management, and ethical data analysis practices.
